@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FuelConsumption</string>
+    <string name="action_settings">Settings</string>
+    <string name="kml">Kilometres / Litre</string>
+    <string name="lkm">Litres / 100km</string>
+    <string name="litres">Litres</string>
+    <string name="kilometers">Kilometers</string>
+
+</resources>
