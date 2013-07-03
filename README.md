@@ -1,3 +1,3 @@
 AndroidApp
 ==========
-Basic fuels consumption app
+Basic fuel consumption app
