@@ -22,12 +22,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7133b9c8-d0dd-4769-a6c6-3bc1486702fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/MainActivity.java" afterPath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/build/source/r/debug/matt/fuelconsumption/R.java" afterPath="$PROJECT_DIR$/FuelConsumption/build/source/r/debug/matt/fuelconsumption/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/build/res/all/debug/menu/main.xml" afterPath="$PROJECT_DIR$/FuelConsumption/build/res/all/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/FuelConsumption/src/main/res/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/src/main/res/menu/settings.xml" afterPath="$PROJECT_DIR$/FuelConsumption/src/main/res/menu/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/FuelConsumption/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java" afterPath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FuelConsumption.iws" />
@@ -155,8 +150,10 @@
       <file leaf-file-name="dbHelper.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="21" selection-start="90" selection-end="90" vertical-scroll-proportion="0.09792627" vertical-offset="0" max-vertical-offset="868">
-              <folding />
+            <state line="33" column="63" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.64631337" vertical-offset="0" max-vertical-offset="868">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -471,6 +468,7 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="SDKs" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
@@ -480,6 +478,7 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -845,8 +844,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="90" selection-end="90" vertical-scroll-proportion="0.09792627" vertical-offset="0" max-vertical-offset="868">
-          <folding />
+        <state line="33" column="63" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.64631337" vertical-offset="0" max-vertical-offset="868">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
