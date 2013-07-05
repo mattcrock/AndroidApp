@@ -21,9 +21,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7133b9c8-d0dd-4769-a6c6-3bc1486702fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java" afterPath="$PROJECT_DIR$/FuelConsumption/src/main/java/matt/fuelconsumption/dbHelper.java" />
-    </list>
+    <list default="true" id="7133b9c8-d0dd-4769-a6c6-3bc1486702fe" name="Default" comment="" />
     <ignored path="FuelConsumption.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
