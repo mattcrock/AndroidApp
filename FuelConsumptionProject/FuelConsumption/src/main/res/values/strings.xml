@@ -7,5 +7,7 @@
     <string name="lkm">Litres / 100km</string>
     <string name="litres">Litres</string>
     <string name="kilometers">Kilometers</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

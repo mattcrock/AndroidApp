@@ -1,5 +1,6 @@
 package matt.fuelconsumption;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
@@ -18,11 +19,11 @@ public class MainActivity extends Activity {
     public void Calculate(View view)
     {
         EditText lites = (EditText) findViewById(R.id.liters);
-        EditText kilomters = (EditText) findViewById(R.id.kilomtres);
+        EditText kilometers = (EditText) findViewById(R.id.kilomtres);
 
-        double lkm = Double.parseDouble(lites.getText().toString()) / Double.parseDouble(kilomters.getText().toString()) * 100;
+        double lkm = Double.parseDouble(lites.getText().toString()) / Double.parseDouble(kilometers.getText().toString()) * 100;
 
-        double kml = Double.parseDouble(kilomters.getText().toString()) / Double.parseDouble(lites.getText().toString());
+        double kml = Double.parseDouble(kilometers.getText().toString()) / Double.parseDouble(lites.getText().toString());
 
         TextView txtkml = (TextView) findViewById(R.id.txtkml);
         TextView txtlkm = (TextView) findViewById(R.id.txtlkm);
@@ -47,5 +48,10 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    
+
+    public void Settings(View view)
+    {
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+    }
 }
