@@ -16,6 +16,7 @@ public class dbHelper extends SQLiteOpenHelper {
     static final String colL="Litres";
     static final String colKmL="KilometersPerLitre";
     static final String colLkm="LitresPer100Kilometers";
+    static final String colDate = "DateAdded";
 
     public dbHelper(Context context){
         super(context,dbName,null,1);
@@ -25,7 +26,7 @@ public class dbHelper extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase db) {
         //create all the tables that will be needed
         db.execSQL("CREATE TABLE " + consumptionTable + " (" + colID + " INTEGER PRIMARY KEY , " + colKm + "INTEGER NOT NULL , " + colL + " INTEGER NOT NULL , " +
-                colKmL + " INTEGER , " + colLkm + " INTEGER , " + ")");
+                colKmL + " INTEGER , " + colLkm + " INTEGER , " + colDate + " DATETIME NOT NULL " + ")");
     }
 
     @Override
