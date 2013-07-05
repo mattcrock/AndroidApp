@@ -1,16 +1,18 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1372839852764 259 4e24e0ebd85e038f429308f3c1a897346f9a31cf C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-sw720dp-land\dimens.xml
-1372839852771 393 57bf76bb0f2df417c079be64295195b4d9b92f87 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-v14\styles.xml
-1372839852761 185 681b39c2621d3f3550d08a884437c57f22d3a66c C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-sw600dp\dimens.xml
 1372835429039 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\drawable-mdpi\ic_launcher.png
-1372839852768 335 d298d59d1f16def33014064de655cc62a439327d C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-v11\styles.xml
 1372835429040 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\drawable-xxhdpi\ic_launcher.png
 1372835429040 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\drawable-xhdpi\ic_launcher.png
 1372839852774 216 c938f59c26459571b70359115cbdb1d9f86904c2 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values\dimens.xml
-1372836354535 373 06db1e7d132fce6e010388b94b52ad40a4a35f5c C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values\strings.xml
+1372840992811 496 e0e4af3de070e73b16fe2b7c05c151b2d3e61204 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values\strings.xml
 1372840341387 3936 5aec359f286612c3e651d5984a6ab0375e9186fc C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\layout\activity_main.xml
 1372839852778 700 fccc63f4b6d5bb06043bc555067eb618e0ab8859 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values\styles.xml
-1372840413979 285 4a64d6a5f39381ad1422847a5bf63ffcdb68593b C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\menu\main.xml
+1373006020810 259 a40e38cad9f002799a9f006f5e80b03037262677 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\menu\main.xml
+1372839852764 259 4e24e0ebd85e038f429308f3c1a897346f9a31cf C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-sw720dp-land\dimens.xml
+1372839852771 393 57bf76bb0f2df417c079be64295195b4d9b92f87 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-v14\styles.xml
+1372840992828 653 eb7fc6c6de4a087ca3a43a43d950c44777c8595e C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\layout\activity_settings.xml
+1373006013255 278 2c367115064b88be338aaaf2beeb7c1f39a63851 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\menu\settings.xml
+1372839852761 185 681b39c2621d3f3550d08a884437c57f22d3a66c C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-sw600dp\dimens.xml
+1372839852768 335 d298d59d1f16def33014064de655cc62a439327d C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values-v11\styles.xml
 1372835429039 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\drawable-hdpi\ic_launcher.png

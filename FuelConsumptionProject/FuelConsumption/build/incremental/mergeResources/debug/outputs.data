@@ -1,13 +1,15 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+1373005665914 653 eb7fc6c6de4a087ca3a43a43d950c44777c8595e C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\layout\activity_settings.xml
 1372835450958 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\drawable-xhdpi\ic_launcher.png
-1372840133719 953 4381e3d3478f1c0be614781c30c23df1ffbd18d3 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\values\values.xml
+1373005665950 1077 d15e9d5ffd8c498ce5e2329b00c6d17959e1b5f9 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\values\values.xml
 1372835450957 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
 1372835450958 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\drawable-hdpi\ic_launcher.png
 1372840133720 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\values-v14\values.xml
+1373006036146 278 2c367115064b88be338aaaf2beeb7c1f39a63851 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\menu\settings.xml
 1372835450958 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\drawable-mdpi\ic_launcher.png
 1372840599439 3936 5aec359f286612c3e651d5984a6ab0375e9186fc C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\layout\activity_main.xml
 1372840133723 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\values-sw720dp-land\values.xml
-1372840599439 285 4a64d6a5f39381ad1422847a5bf63ffcdb68593b C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\menu\main.xml
+1373006036146 259 a40e38cad9f002799a9f006f5e80b03037262677 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\menu\main.xml
 1372840133722 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\all\debug\values-v11\values.xml

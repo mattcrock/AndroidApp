@@ -44,6 +44,8 @@
             <file
                 path="C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\values\strings.xml"
                 qualifiers="" >
+                <string name="title_activity_settings" >SettingsActivity
+                </string>
                 <string name="action_settings" >Settings
                 </string>
                 <string name="kml" >Kilometres / Litre
@@ -53,6 +55,8 @@
                 <string name="lkm" >Litres / 100km
                 </string>
                 <string name="app_name" >FuelConsumption
+                </string>
+                <string name="hello_world" >Hello world!
                 </string>
                 <string name="kilometers" >Kilometers
                 </string>
@@ -110,6 +114,16 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="activity_settings"
+                path="C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\layout\activity_settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="settings"
+                path="C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\src\main\res\menu\settings.xml"
+                qualifiers=""
+                type="menu" />
         </source>
         <source path="C:\Users\Matt\AndroidStudioProjects\App\FuelConsumptionProject\FuelConsumption\build\res\rs\debug" />
     </dataSet>
